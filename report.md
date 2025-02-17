@@ -1,0 +1,8 @@
+-i started by initializing a git in this folder 
+- added all required files
+- intialized a git repository for the lab
+- commited and pushed all my code to it to github
+- made a separate feature/student-details branch
+- published the branch
+- deployed to github pages
+-bundles my repo
